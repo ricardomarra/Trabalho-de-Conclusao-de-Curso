@@ -12,4 +12,4 @@ The material is organized in four folders.
 - myresults: the final results.
 
 There are two main functions, TilePick_code and MaskPick_code.
-To execute the code, simply run the main.
+To execute the code, simply run the main. Change the "filename" variable to one of the dataset folders name.
