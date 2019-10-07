@@ -2,7 +2,7 @@
 
 %{
 Information about this version: the algorithm receives all the images as
-input; then, an output image is generated with the top images, based on 
+input; then, an output image is generated with the best images, based on 
 a focus measure algorithm and their depthmaps. The action map construction considers the pixel 
 value and it neighbors' values.
 %}
